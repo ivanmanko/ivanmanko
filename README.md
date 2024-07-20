@@ -1,52 +1,53 @@
-# Привет! Я [Ваше Имя] 👋
+# Hi there! 👋
 
-## 🚀 О себе
+## 🚀 About Me
 
-Я разработчик программного обеспечения с увлечением к созданию инновационных решений и поиску оптимальных путей для решения задач. Мой опыт охватывает множество технологий, и я всегда готов принять новые вызовы и расширять свои знания.
+I'm a software developer passionate about creating innovative solutions and finding optimal ways to solve problems. My experience spans various technologies, and I'm always ready to take on new challenges and expand my knowledge.
 
-### 🌍 Где я нахожусь
+### 🌍 Where to Find Me
 
-- 🌐 [Мой сайт](https://ваш-сайт.com)
-- 🏢 [LinkedIn](https://www.linkedin.com/in/ваш-профиль)
-- 🐦 [Twitter](https://twitter.com/ваш_твиттер)
-- 📧 [Email](mailto:ваш-имейл@example.com)
+- 🌐 [My Website](https://your-website.com)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🐦 [Twitter](https://twitter.com/your_twitter)
+- 📧 [Email](mailto:your-email@example.com)
 
-## 🔧 Технологии и инструменты
+## 🔧 Technologies and Tools
 
-- **Языки программирования:** Python, JavaScript, TypeScript, Java
-- **Фреймворки:** Django, FastAPI, React, Vue.js
-- **Инструменты и сервисы:** GitHub, Docker, Kubernetes, AWS
+- **Programming Languages:** Python, JavaScript, TypeScript, Java
+- **Frameworks:** Django, FastAPI, React, Vue.js
+- **Tools and Services:** GitHub, Docker, Kubernetes, AWS
 
-## 🌟 Мои проекты
+## 🌟 My Projects
 
-- **[Проект 1](https://github.com/ваш-username/проект-1)**: Описание первого проекта.
-- **[Проект 2](https://github.com/ваш-username/проект-2)**: Описание второго проекта.
-- **[Проект 3](https://github.com/ваш-username/проект-3)**: Описание третьего проекта.
+- **[Project 1](https://github.com/your-username/project-1)**: Description of the first project.
+- **[Project 2](https://github.com/your-username/project-2)**: Description of the second project.
+- **[Project 3](https://github.com/your-username/project-3)**: Description of the third project.
 
-## 📚 Мои достижения
+## 📚 My Achievements
 
-- 🏆 Участник [Hackathon X](https://ссылка-на-мероприятие)
-- 🥇 Призер [Конкурс Y](https://ссылка-на-конкурс)
+- 🏆 Participant in [Hackathon X](https://link-to-event)
+- 🥇 Winner of [Competition Y](https://link-to-competition)
 
-## 📈 Мои статистики
+## 📈 My Stats
 
-![Ваши статистики](https://github-readme-stats.vercel.app/api?username=ivanmanko&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&line_height=21)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=ivanmanko&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&line_height=21)
 
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanmanko&theme=dark)](https://git.io/streak-stats)
 
-## 🎯 Цели и планы
+## 🎯 Goals and Plans
 
-- Освоить новые технологии
-- Работать над интересными проектами
-- Делать мир лучше с помощью кода
+- Learn new technologies
+- Work on interesting projects
+- Make the world a better place through code
 
-## 💬 Свяжитесь со мной
+## 💬 Contact Me
 
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной через [LinkedIn](https://www.linkedin.com/in/ваш-профиль) или [Twitter](https://twitter.com/ваш_твиттер).
+If you have any questions or proposals, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Twitter](https://twitter.com/your_twitter).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan151&show_icons=true&theme=radical)
 
 ---
 
-Спасибо, что посетили мой профиль! 🌟
+Thank you for visiting my profile! 🌟
+```
