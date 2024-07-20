@@ -45,7 +45,7 @@
 
 Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной через [LinkedIn](https://www.linkedin.com/in/ваш-профиль) или [Twitter](https://twitter.com/ваш_твиттер).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmanko&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan151&show_icons=true&theme=radical)
 
 ---
 
