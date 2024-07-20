@@ -32,6 +32,9 @@
 
 ![Ваши статистики](https://github-readme-stats.vercel.app/api?username=ivanmanko&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&line_height=21)
 
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivanmanko&theme=dark)](https://git.io/streak-stats)
+
 ## 🎯 Цели и планы
 
 - Освоить новые технологии
