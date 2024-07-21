@@ -40,9 +40,7 @@ I'm a passionate Python enthusiast with many years of experience in the field. M
 
 - **[BeInTeam BOT](https://t.me/BeInTeambot)**: is a tool designed to help amateur teams organize and stay informed about upcoming events. It streamlines team coordination and ensures members never miss important updates or schedules.
 
-BeInTeam CRM
-
-- **[BeInTeam CRM](https://api.beinteam.ru/docs)**: is a comprehensive booking management system for sports venues. It is utilized by **[Campus Sport](https://sportcampus.ru/)**Campus Sport, a major network of sports facilities in Moscow, to efficiently handle reservations and streamline operations. Campus Sport.
+- **[BeInTeam CRM](https://api.beinteam.ru/docs)**: is a comprehensive booking management system for sports venues. It is utilized by **[Campus Sport](https://sportcampus.ru/)**, a major network of sports facilities in Moscow, to efficiently handle reservations and streamline operations. Campus Sport.
 
 
 ### 🔥 GitHub Streak Stats
