@@ -6,7 +6,8 @@ I'm a software developer passionate about creating innovative solutions and find
 
 ### 🌍 Where to Find Me
 
-[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://patrolavia.github.io/telegram-badge/chat.png) and [![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)](https://patrolavia.github.io/telegram-badge/follow.png).
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=ivanmankos@gmail.com)](mailto:ivanmankos@gmail.com)
+
 
 - 📧 [Email](mailto:your-email@example.com)
 
