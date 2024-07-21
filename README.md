@@ -9,32 +9,32 @@ I'm a software developer passionate about creating innovative solutions and find
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=ivanmankos@gmail.com)](mailto:ivanmankos@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ivanmanko)
 
-
 ## Languages I Use
 
-[![Python](https://shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/HTML5-F00F00?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
-[![SQL](https://img.shields.io/badge/SQL-E3198C?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF4E?style=for-the-badge&logo=javascript&logoColor=white)](https://www.w3schools.com/js/)
-[![CSS3](https://img.shields.io/badge/CSS3-2AA2FF?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![Python](https://shields.io/badge/python-3.x-yellow.svg?style=flat)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/HTML5-F00F00?style=flat&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
+[![SQL](https://img.shields.io/badge/SQL-E3198C?style=flat&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF4E?style=flat&logo=javascript&logoColor=white)](https://www.w3schools.com/js/)
+[![CSS3](https://img.shields.io/badge/CSS3-2AA2FF?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 ## Technologies and Tools I Have Worked With
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-[![Django](https://shields.io/badge/django-3.2-orange.svg)](https://www.django.com/)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-[![aiogram](https://img.shields.io/badge/aiogram-0.15.2-blue.svg)](https://github.com/aiogram/aiogram)
-[![aiohttp](https://img.shields.io/badge/aiohttp-0.40.5-green.svg)](https://aiohttp.readthedocs.io/en/latest/)
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+[![Django](https://shields.io/badge/django-3.2-orange.svg?style=flat)](https://www.django.com/)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black)
+[![aiogram](https://img.shields.io/badge/aiogram-0.15.2-blue.svg?style=flat)](https://github.com/aiogram/aiogram)
+[![aiohttp](https://img.shields.io/badge/aiohttp-0.40.5-green.svg?style=flat)](https://aiohttp.readthedocs.io/en/latest/)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=flat&logo=celery&logoColor=ddf4a4)
 
 ## 🌟 My Projects
 
@@ -72,4 +72,3 @@ If you have any questions or proposals, feel free to reach out to me via [Linked
 ---
 
 Thank you for visiting my profile! 🌟
-```
