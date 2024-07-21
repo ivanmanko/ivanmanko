@@ -7,9 +7,8 @@ I'm a software developer passionate about creating innovative solutions and find
 ### 🌍 Where to Find Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&label=ivanmankos@gmail.com)](mailto:ivanmankos@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ivanmanko)
 
-
-- 📧 [Email](mailto:your-email@example.com)
 
 ## Languages I Use
 
