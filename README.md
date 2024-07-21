@@ -19,20 +19,22 @@ I'm a software developer passionate about creating innovative solutions and find
 [![CSS3](https://img.shields.io/badge/CSS3-2AA2FF?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 ## Technologies and Tools I Have Worked With
-[![Python](https://shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/flask-1.2.2-orange.svg)](https://flask.palletsprojects.com/)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 [![Django](https://shields.io/badge/django-3.2-orange.svg)](https://www.django.com/)
-[![FastAPI](https://shields.io/badge/fastapi-3.x-blue.svg)](https://fastapi.starlette.io/)
-[![Django RESTful](https://img.shields.io/badge/Django-RESTful-007bff?style=for-the-badge&logo=django-restful&logoColor=white)](https://www.restframework.org/)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 [![aiogram](https://img.shields.io/badge/aiogram-0.15.2-blue.svg)](https://github.com/aiogram/aiogram)
 [![aiohttp](https://img.shields.io/badge/aiohttp-0.40.5-green.svg)](https://aiohttp.readthedocs.io/en/latest/)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 
 ## 🌟 My Projects
 
