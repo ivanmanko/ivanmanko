@@ -11,11 +11,25 @@ I'm a software developer passionate about creating innovative solutions and find
 - 🐦 [Twitter](https://twitter.com/your_twitter)
 - 📧 [Email](mailto:your-email@example.com)
 
-## 🔧 Technologies and Tools
+## Languages I Use
 
-- **Programming Languages:** Python, JavaScript, TypeScript, Java
-- **Frameworks:** Django, FastAPI, React, Vue.js
-- **Tools and Services:** GitHub, Docker, Kubernetes, AWS
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+
+## Technologies and Tools I Have Worked With
+[![Python](https://shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🌟 My Projects
 
