@@ -41,15 +41,16 @@ I'm a passionate Python enthusiast with many years of experience in the field. M
 - **[BeInTeam BOT](https://t.me/BeInTeambot)**: is a tool designed to help amateur teams organize and stay informed about upcoming events. It streamlines team coordination and ensures members never miss important updates or schedules.
 
 - **[BeInTeam CRM](https://api.beinteam.ru/docs)**: is a comprehensive booking management system for sports venues. It is utilized by **[Campus Sport](https://sportcampus.ru/)**, a major network of sports facilities in Moscow, to efficiently handle reservations and streamline operations. Campus Sport.
+- 
+## 📚 My Favorite Python Books
 
-## 🌟 My Favorite Python Books
+[![Learning Python](https://img.shields.io/badge/Learning%20Python-Mark%20Lutz-blue)](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
+[![Fluent Python](https://img.shields.io/badge/Fluent%20Python-Luciano%20Ramalho-green)](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
 
-"Learning Python" by Mark Lutz
-"Fluent Python" by Luciano Ramalho
+## 🎓 My Favorite Python Course
 
-My Favorite Python course
+[![Python 3: Deep Dive](https://img.shields.io/badge/Udemy-Python%203%3A%20Deep%20Dive-%23EA5252?style=flat&logo=Udemy&logoColor=white)](https://www.udemy.com/course/python-3-deep-dive-part-1/)
 
-**[Python 3: Deep Dive (all parts)](https://https://www.udemy.com/course/python-3-deep-dive-part-1/)**
 
 ### 🔥 GitHub Streak Stats
 
