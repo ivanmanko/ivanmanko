@@ -57,11 +57,20 @@ Currently architecting an AI-analytics platform from scratch (10+ microservices)
 
 ## 💼 What I've Built
 
-- **AI API Gateway** — fault-tolerant shim unifying access to OpenAI, DeepSeek, YandexGPT and OpenRouter at 50–100 RPS, with automatic provider failover, structured-output normalization, per-key billing, and balance monitoring.
-- **RAG support-automation service** (PostgreSQL + pgvector + LangChain + GPT-4o) with an LLM agent, cutting manual workload by 40%.
-- **AI-research product** generating synthetic survey/interview respondents at scale, with batch LLM calls and map-reduce summarization.
-- **Text-analytics pipeline** extracting structured marketing insights (JTBD, barriers, drivers) from interview transcripts.
-- Partitioned a high-load PostgreSQL table (sliding-window TTL), cutting report generation time **3x** (15 → 5 min).
+A selection from 10+ microservices I've designed and shipped — here are some of the highlights:
+
+**AI / LLM**
+- **AI API Gateway** — fault-tolerant service unifying access to OpenAI, DeepSeek, YandexGPT and OpenRouter, with automatic provider failover, structured-output normalization, per-key billing, and balance monitoring.
+- **RAG support-automation service** — PostgreSQL + pgvector + LangChain + GPT-4o with an LLM agent.
+- **AI-research product** — synthetic survey/interview respondents at scale, with batch LLM calls and map-reduce summarization.
+- **Text-analytics pipeline** — structured marketing insights (JTBD, barriers, drivers) extracted from interview transcripts.
+
+**Backend & Infrastructure**
+- **Billing system** — refactoring and SQL optimization for a corporate billing platform.
+- **FNS API integration** — async client for the Russian tax service Open API (SOAP auth, XML/XSD, throttling).
+- **WhatsApp messaging service** — scenario engine and bulk-messaging microservice (WhatsApp via Edna Pulse).
+
+…and plenty more across web analytics, auth, observability and serverless integrations.
 
 ---
 
